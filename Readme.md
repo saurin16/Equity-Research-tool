@@ -3,6 +3,12 @@
 
 The Financial Stock Assistant Chatbot is a tool designed to assist users in making informed decisions while trading or investing in stocks. It leverages artificial intelligence (AI) to provide various functionalities, including fetching stock prices, calculating technical indicators such as Simple Moving Average (SMA), Exponential Moving Average (EMA), Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and plotting stock price graphs.
 
+
+![Financial Stock Assistant Chatbot](3.png)
+
+The Financial Stock Assistant Chatbot is a tool designed to assist users in making informed decisions while trading or investing in stocks...
+
+
 ## Features
 
 ### 1. Stock Price Query
