@@ -33,7 +33,7 @@ The Financial Stock Assistant Chatbot is a tool designed to assist users in maki
 
 To run the Financial Stock Assistant Chatbot, follow these steps:
 
-1. Install the required dependencies by running `pip install -r requirements.txt`.
+1. Install the required dependencies by running `pip install -r requirements.txt`. Also it needs an openai key make sure you enter that correct to run properly
 2. Run the Streamlit app using the command `streamlit run app.py`.
 3. Access the chatbot interface in your web browser.
 
